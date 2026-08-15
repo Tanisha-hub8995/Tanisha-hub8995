@@ -14,17 +14,42 @@ jobs:
       contents: write
 
     steps:
+
+      # 1. Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      # 2. Generate snake animation
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Tanisha-hub8995
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Publish Snake
-        uses: EndBug/add-and-commit@v9
-        with:
-          add: "dist"
-          message: "Update contribution snake"
-          push: true
+      # 3. Publish generated files to output branch
+      - name: Publish to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git fetch origin output || true
+
+          if git show-ref --verify --quiet refs/remotes/origin/output; then
+            git checkout output
+            git rm -rf .
+          else
+            git checkout --orphan output
+            git rm -rf . || true
+          fi
+
+          cp -r dist/* .
+
+          git add .
+
+          git commit -m "Update contribution snake" || echo "No changes to commit"
+
+          git push origin output --force
