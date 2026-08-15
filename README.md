@@ -53,53 +53,6 @@
 
 I'm a Computer Science student who enjoys turning **real-world problems into practical technology solutions**.
 
-My interests span across:
-
-```text
-        💻 SOFTWARE
-             │
-     ┌───────┼────────┐
-     ↓       ↓        ↓
-   Web      AI/ML    Backend
-     │       │        │
-     └───────┼────────┘
-             ↓
-          🔌 IoT
-             │
-             ↓
-       🚀 REAL-WORLD
-          PROJECTS
----
-
-# 👩‍💻 About Me
-
-```python
-class TanishaDas:
-
-    education = "B.Tech CSE"
-
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Data Science",
-        "Full Stack Development",
-        "Backend Development",
-        "IoT & Embedded Systems",
-        "Linux Programming"
-    ]
-
-    languages = [
-        "Python",
-        "C",
-        "C++",
-        "Java",
-        "JavaScript",
-        "SQL",
-        "Bash"
-    ]
-
-    philosophy = "Learn → Build → Debug → Improve 🚀"
-```
 
 ### 🔭 What I Like Building
 
@@ -110,6 +63,7 @@ class TanishaDas:
 * ⚙️ Backend APIs
 * 🧠 Intelligent real-world solutions
 * 🐧 Linux/system-level projects
+* 🌱 Connected to the grid and loving every byte
 
 I've worked on projects including **Fraud Detection, Dyslexia Assist, Employee Salary Prediction, COVID-19 Unemployment Analysis, Peer-to-Peer File Sharing, and an IoT Saree Folding & Pressing Machine**.
 
