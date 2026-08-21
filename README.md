@@ -10,11 +10,11 @@
 
 <!-- 🌊 ANIMATED HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Tanisha%20Das&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20AI%2FML%20%7C%20Data%20Science%20%7C%20IoT&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Tanisha%20Das&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20AI%2FML%20%7C%20Data%20Science%20%7C%20&descAlignY=58&descSize=18"/>
 
 <!-- ⌨️ ANIMATED TYPING -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Tanisha+Das+%F0%9F%91%8B;B.Tech+Computer+Science+%26+Engineering+%F0%9F%8E%93;Developer+%F0%9F%92%BB;AI%2FML+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Problem+Solver+Lerner+%F0%9F%94%8C;I+Love+Building+Real-World+Projects+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Tanisha+Das+%F0%9F%91%8B;B.Tech+Computer+Science+%26+Engineering+%F0%9F%8E%93;Developer+%F0%9F%92%BB;AI%2FML+%26+Data+Science+Enthusiast+%F0%9F%A4%96;Problem+Solver+|+Lerner+%F0%9F%94%8C;I+Love+Building+Real-World+Projects+%F0%9F%9A%80" />
 
 <br><br>
 
