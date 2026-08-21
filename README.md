@@ -14,7 +14,7 @@
 
 <!-- ⌨️ ANIMATED TYPING -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Tanisha+Das+%F0%9F%91%8B;B.Tech+Computer+Science+%26+Engineering+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%92%BB;AI%2FML+%26+Data+Science+Enthusiast+%F0%9F%A4%96;IoT+%26+Embedded+Systems+Developer+%F0%9F%94%8C;I+Love+Building+Real-World+Projects+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Tanisha+Das+%F0%9F%91%8B;B.Tech+Computer+Science+%26+Engineering+%F0%9F%8E%93;Developer+%F0%9F%92%BB;AI%2FML+%26+Data+Science+Enthusiast+%F0%9F%A4%96;IoT+%26+Problem+Solver+Lerner+%F0%9F%94%8C;I+Love+Building+Real-World+Projects+%F0%9F%9A%80" />
 
 <br><br>
 
@@ -64,7 +64,7 @@ I'm a Computer Science student who enjoys turning **real-world problems into pra
 * 🧠 Intelligent real-world solutions
 * 🐧 Linux/system-level projects
 * 🌱 Connected to the grid and loving every byte
-* 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/tanisha-das-150796323)
+* 📫 Connect with me [LinkedIn](https://www.linkedin.com/in/tanisha-das-150796323)
 
 
 I've worked on projects including **Fraud Detection, Dyslexia Assist, Employee Salary Prediction, COVID-19 Unemployment Analysis, Peer-to-Peer File Sharing, and an IoT Saree Folding & Pressing Machine**.
