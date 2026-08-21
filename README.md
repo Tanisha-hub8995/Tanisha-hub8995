@@ -43,10 +43,10 @@
 
 **B.Tech Computer Science & Engineering Student**
 
-💻 Full Stack Developer
+💻 Engineer|Developer
+🧠 Problem Solver
 🤖 AI/ML Enthusiast
 📊 Data Science Explorer
-🔌 IoT & Embedded Systems Developer
 🐧 Linux & Backend Explorer
 
 </div>
@@ -64,6 +64,8 @@ I'm a Computer Science student who enjoys turning **real-world problems into pra
 * 🧠 Intelligent real-world solutions
 * 🐧 Linux/system-level projects
 * 🌱 Connected to the grid and loving every byte
+* 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/tanisha-das-150796323)
+
 
 I've worked on projects including **Fraud Detection, Dyslexia Assist, Employee Salary Prediction, COVID-19 Unemployment Analysis, Peer-to-Peer File Sharing, and an IoT Saree Folding & Pressing Machine**.
 
@@ -93,8 +95,6 @@ I've worked on projects including **Fraud Detection, Dyslexia Assist, Employee S
 
 </div>
 
-> 💡 My LinkedIn URL isn't included here because your CV only provides the label "Linkedin", not the actual profile URL.
-
 ---
 
 # 🛠️ Tech Stack
@@ -105,15 +105,7 @@ I've worked on projects including **Fraud Detection, Dyslexia Assist, Employee S
 
 ### 💻 Programming
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,bash"/>
-
-### 🌐 Full Stack
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vite,flask,fastapi"/>
-
-### 🤖 AI / Data Science
-
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,flask,react, vite, bash"/>
 
 <br>
 
