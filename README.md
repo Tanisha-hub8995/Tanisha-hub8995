@@ -99,21 +99,13 @@ I've worked on projects including **Fraud Detection, Dyslexia Assist, Employee S
 
 # 🛠️ Tech Stack
 
-## 💻 Programming Languages
-
 <div align="center">
 
-### 💻 Programming
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,bash,react,tailwind,vite,flask,fastapi,mysql,git,github,vscode,linux,figma,vercel"/>
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,flask,react, vite, bash"/>
+<br><br>
 
-<br>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-### 🗄️ Database & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux,figma,vercel"/>
+<img src="https://img.shields.io/badge/AI%2FML-Scikit--Learn%20%7C%20NumPy%20%7C%20Pandas%20%7C%20Matplotlib%20%7C%20Seaborn%20%7C%20Plotly-00C6FF?style=for-the-badge"/>
 
 </div>
 
